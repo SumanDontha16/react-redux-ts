@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+### `Deposit`
+![image](https://user-images.githubusercontent.com/51446173/145887819-a7862521-f4c2-4fc5-81d1-b946dedc9ed9.png)
+
+### `WithDarw`
+![image](https://user-images.githubusercontent.com/51446173/145887897-82d322f9-abd8-465b-bbe8-5dba15b635de.png)
+
+### `Bankrupt`
+![image](https://user-images.githubusercontent.com/51446173/145887951-82cc4860-5df0-4cb3-9bb8-77fb1da95fa6.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
